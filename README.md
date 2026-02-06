@@ -19,7 +19,7 @@ This project demonstrates the setup and testing of **Snort as an Intrusion Detec
 
 ## 🏗️ Architecture
 
-![Network Topology](architecture/network-topology.png)
+![Network Topology](architecture/network-topology.jpg)
 
 ## ⚙️ Installation
 
